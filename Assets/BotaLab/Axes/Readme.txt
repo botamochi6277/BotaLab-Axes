@@ -2,7 +2,7 @@ BotaLab Axes / Ver 1.0.0
 ===
 Created by botamochi6277
 
-Axes objects for debug.
+Axes objects to debug for Unity
 
 Author Info
 ---
